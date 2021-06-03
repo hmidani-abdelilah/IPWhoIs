@@ -6,7 +6,7 @@
 
 A simple IP Geolocation tool.
 
-![Alt text](https://raw.githubusercontent.com/haithamaouati/IPWhoIs/main/screenshot.PNG "Optional Title")
+![Alt text](https://raw.githubusercontent.com/haithamaouati/IPWhoIs/main/screenshot.PNG "Screenshot")
 
 Requirements
 ----
