@@ -6,7 +6,7 @@
 
 A simple IP Geolocation tool.
 
-![Alt text](https://raw.githubusercontent.com/haithamaouati/IPWhoIs/main/screenshot.PNG "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/haithamaouati/IPWhoIs/main/screenshot.PNG?raw=true "Optional Title")
 
 Requirements
 ----
@@ -30,7 +30,7 @@ Usage
     
 Help
 ----
-    python3 IPWhoIs.py -h, --help
+    python3 IPWhoIs.py -h
     
 ###### Options
 `-h, --help`
