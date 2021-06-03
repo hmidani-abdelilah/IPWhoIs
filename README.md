@@ -6,6 +6,8 @@
 
 A simple IP Geolocation tool.
 
+![Alt text](/relative/screenshot.png?raw=true "Optional Title")
+
 Requirements
 ----
 * [Python 3.9.4](https://www.python.org)
